@@ -1,4 +1,4 @@
-# Hi!👋🏻 I am Rahman Richardson.
+# Hi!https://emojigraph.org/waving-hand-medium-dark-skin-tone/ I am Rahman Richardson.
 
 ```typescript
 const RRichardson: IRRichardson = {
