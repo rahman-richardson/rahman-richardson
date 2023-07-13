@@ -1,7 +1,7 @@
 # Hi!👋🏻 I am Rahman Richardson.
 
 ```typescript
-const RRichardson: IRRichardson {
+const RRichardson: IRRichardson = {
   country: "United States",
   skills: [HTML, CSS, SCSS, TailwindCSS, Bootstrap, JavaScript, TypeScript, ReactJS, NextJS, GatsbyJS, NodeJS, ExpressJS, NoSQL, Redis, Headless CMS, Algolia, ...etcTechs]
 }
